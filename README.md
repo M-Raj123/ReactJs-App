@@ -1,2 +1,2 @@
 # ReactJs-App
-learn to build the ReactJs App
+Learn to Build a ReactJs App
